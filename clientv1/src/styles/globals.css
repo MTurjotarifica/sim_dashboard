@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  padding: 0px;
+}
+
+@font-face {
+  font-family: "Avenir";
+  src: url("/font/Avenir-Roman-webfont.ttf");
+}
